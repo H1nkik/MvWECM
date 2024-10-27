@@ -5,17 +5,19 @@
 
 ## Preparation
 **Dependency**
+R == 4.4.1
+
 (Rstudio will prompt you to install the missing packages.)
-* aricode == 
 
-* evclust == 
+* aricode 
 
-* R.utils ==
+* evclust 
 
-* R.matlab ==  (optional)
+* R.utils
+
+* R.matlab  (optional)
 
 **Data**
-
 INPUT: views x n x d matrix 
 
 ## Usage
