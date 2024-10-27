@@ -5,7 +5,7 @@
 
 ## Preparation
 **Dependency**
-
+(Rstudio will prompt you to install the missing packages.)
 * aricode == 
 
 * evclust == 
@@ -19,5 +19,5 @@
 INPUT: views x n x d matrix 
 
 ## Usage
-We provide a CPU version for all platform (MacOS, Linux and Windows).
+The platform is i7-13700 + 24G.
 
