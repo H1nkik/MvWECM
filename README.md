@@ -33,4 +33,4 @@ The platform is i7-13700 + 24G.
 | `Caltech07`    | `float`  | 1.0        | 参数4的描述，用于指定精度等 | xxx |xxx |
 | `3sources`     | `float`  | 1.0        | 参数4的描述，用于指定精度等 | xxx |xxx |
 | `Reuters-1500` | `float`  | 1.0        | 参数4的描述，用于指定精度等 | xxx |xxx |
-| `Reuters-18758`| `float`  | 1.0        | 参数4的描述，用于指定精度等 | xxx |xxx |
+| `Reuters-18758`|   1.25   | 58         | 2 | 1 |`normalize` |
