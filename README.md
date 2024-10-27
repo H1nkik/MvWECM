@@ -10,11 +10,13 @@
 ## Preparation
 **Dependency**
 
-* aricode == 3.8.8
+* aricode == 
 
-* evclust == 11.0
+* evclust == 
 
-* R.matlab == 1.1.4 (optional)
+* R.utils ==
+
+* R.matlab ==  (optional)
 
 **Data**
 
