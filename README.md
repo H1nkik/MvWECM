@@ -3,4 +3,9 @@
 ![Static Badge](https://img.shields.io/badge/R-blue)
 ![Static Badge](https://img.shields.io/badge/Pattern%20Recognition-orange)
 
+## Dependency
+aricode
+evclust
+R.matlab (optional)
 
+##
