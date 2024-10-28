@@ -48,7 +48,7 @@ Remark: If methods do not output `credal partition`, please change `if_credal_id
 
 If you find MvWECM useful in your research, please consider citing:
 
-### BibTeX
+**BibTeX**
 ```bibtex
 @article{zhou2025,
   author       = {Zhou, Kuang and Zhu, Yuchen and Guo, Mei and Jiang, Ming},
