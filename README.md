@@ -15,7 +15,7 @@ R == 4.4.1
 
 * R.utils
 
-* R.matlab  (optional)
+* R.matlab  
 
 **Data**
 
