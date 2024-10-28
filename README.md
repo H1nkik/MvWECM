@@ -35,10 +35,10 @@ Our platform is i7-13700 + 24G.
 We recommend you set `type = "pairs" ` on larger datasets for faster computation.
 | datasets         | alpha     | beta    | delta |  eta  | preprocessing  | 
 | -------------- | -------- | ---------- | --------------------------- | ------| ------|
-| `Prok`         | 1    | 1~403         | 2     | 1 |`normalize` |
-| `Webkb`        | 1    | 3~340         | 13~15 | 1|`0-1` |
-| `IS`           | 1    | 241, 259      | 2~3  | 1 |`normalize` |
-| `Caltech07`    | 1    | 277           | 4     | 1 |`0-1` |
-| `3sources`     | 1    | 1             | 9~20 | 1 |`0-1`|
-| `Reuters-1500` | 1    | xxx           | xxx | 1 |`normalize` |
-| `Reuters-18758`| 1.25 | 58            | 2 | 1 |`normalize` |
+| `Prok`         | 1    | 1~403         | 2      | 1 |`normalize` |
+| `Webkb`        | 1    | 3~340         | 13~15  | 1 |`0-1`       |
+| `IS`           | 1    | 241, 259      | 2~3    | 1 |`normalize` |
+| `Caltech07`    | 1    | 277           | 4      | 1 |`0-1`       |
+| `3sources`     | 1    | 1             | 9~20   | 1 |`0-1`       |
+| `Reuters-1500` | 1    | 29            | 3      | 1 |`0-1`       |
+| `Reuters-18758`| 1.25 | 58            | 2      | 1 |`normalize` |
