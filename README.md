@@ -26,9 +26,8 @@ Datasets can be found at [Link1](https://github.com/ChuanbinZhang/Multi-view-dat
 
 ## Usage
 
-Just run `main.R`. (Change your path and inputting datasets)
+Just `main.R`. (Change your path and inputting datasets)
 
-Remark: If methods do not output `credal partition`, please change `if_credal_id`.
 
 ## Parameters
 Our platform is i7-13700 + 24G.
@@ -42,3 +41,5 @@ We recommend you set `type = "pairs" ` on larger datasets for faster computation
 | `3sources`     | 1    | 1             | 9~20   | 1 |`0-1`       |
 | `Reuters-1500` | 1    | 29            | 3      | 1 |`0-1`       |
 | `Reuters-18758`| 1.25 | 58            | 2      | 1 |`normalize` |
+
+Remark: If methods do not output `credal partition`, please change `if_credal_id`.
