@@ -51,9 +51,9 @@ If you find MvWECM useful in your research, please consider citing:
 **BibTeX**
 ```bibtex
 @article{zhou2025,
-  author       = {Zhou, Kuang and Zhu, Yuchen and Guo, Mei and Jiang, Ming},
   title        = {MvWECM: Multi-View Weighted Evidential C-Means Clustering},
+  author       = {Zhou, Kuang and Zhu, Yuchen and Guo, Mei and Jiang, Ming},
+  journal      = {Pattern Recognition},
   year         = {2025},
-  publisher    = {Elsevier},
-  journal      = {Pattern Recognition}
+  publisher    = {Elsevier}
 }
