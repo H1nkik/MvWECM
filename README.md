@@ -30,7 +30,7 @@ Just `main.R`. (Change your path and inputting datasets)
 
 
 ## Parameters
-Our platform is i7-13700 + 24G.
+Our platform is i7-13700 + 24G (Mac & Win).
 We recommend you set `type = "pairs" ` on larger datasets for faster computation.
 | datasets         | alpha     | beta    | delta |  eta  | preprocessing  | 
 | -------------- | -------- | ---------- | --------------------------- | ------| ------|
