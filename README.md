@@ -12,11 +12,11 @@ R == 4.4.1
 
 * aricode 
 
-* evclust 
-
 * R.utils
 
-* R.matlab  
+* R.matlab
+
+* evclust (optional)
 
 **Data**
 
@@ -29,6 +29,7 @@ The platform is i7-13700 + 24G.
 
 ## Parameters
 
+We recommend you set `type = "pairs" ` on larger datasets for faster computation.
 | datasets         | alpha     | beta    | delta |  eta  | preprocessing  | 
 | -------------- | -------- | ---------- | --------------------------- | ------| ------|
 | `Prok`         | 1    | 1~403         | 2     | 1 |`normalize` |
