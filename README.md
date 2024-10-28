@@ -5,6 +5,7 @@
 
 ## Preparation
 **Dependency**
+
 R == 4.4.1
 
 (Rstudio will prompt you to install the missing packages.)
@@ -21,7 +22,7 @@ R == 4.4.1
 
 INPUT: views x n x d list
 
-Data can be found at [(Link1)](https://github.com/ChuanbinZhang/Multi-view-datasets), [(Link2)](https://github.com/ZhangqiJiang07/Multi-view_Multi-class_Datasets) and [(Link3)](https://gitee.com/zhangfk/multi-view-dataset).
+Data can be found at [Link1](https://github.com/ChuanbinZhang/Multi-view-datasets), [Link2](https://github.com/ZhangqiJiang07/Multi-view_Multi-class_Datasets) and [Link3](https://gitee.com/zhangfk/multi-view-dataset).
 
 ## Usage
 The platform is i7-13700 + 24G.
