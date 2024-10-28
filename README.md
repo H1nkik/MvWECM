@@ -18,7 +18,8 @@ R == 4.4.1
 * R.matlab  (optional)
 
 **Data**
-INPUT: views x n x d matrix 
+
+INPUT: views \times n x d matrix 
 
 ## Usage
 The platform is i7-13700 + 24G.
