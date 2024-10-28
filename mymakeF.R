@@ -28,9 +28,9 @@
 #' 
 #' ## Generation of focal sets of cardinality 0, 1, and c, plus the pairs (1,2) and (1,3)
 #' F<-makeF(c,type='pairs',pairs=matrix(c(1,2,1,3),nrow=2,byrow=TRUE))
-#' (1nk:此处 不是NULL,选定一些集合对)
 
-#for Function intToBin (1nk:该转换函数需要下面这个包,且被限制为最大2 ^ 32)
+
+#for Function intToBin
 # library(R.utils)
 
 mymakeF <- function(c, type = "full", pairs = NULL, Omega = TRUE) {
@@ -38,16 +38,16 @@ mymakeF <- function(c, type = "full", pairs = NULL, Omega = TRUE) {
     if (type == "full") {
         # All the 2^c focal sets
         ii <- 1:2^c
-        N <- length(ii)     #(1nk:幂集元素个数)
+        N <- length(ii)     
         myF <- matrix(0, N, c)
-        CC <- intToBin(0:(N - 1))  #(1nk:把幂集元素全部表为十转二进制)
+        CC <- intToBin(0:(N - 1))  
         for(i in 1:N) myF[i, ] <- as.numeric(substring(CC[i], 1:c, 1:c))
-        #(1nk:把二进制的字符串型转为数值型)
-        myF <- myF[, c:1] #(1nk:二进制数值矩阵的列对换)
+        
+        myF <- myF[, c:1] 
     } else {
         # type= 'simple' or 'pairs'
         myF <- rbind(rep(0, c), diag(c))  # the empty set and the singletons
-        #(1nk:rbind行合并,rep重复0 c次,diag(c)生成c*c的单位矩阵)
+        
         
         if (type == "pairs") {
             # type = 'pairs' pairs not specified: we take them all
