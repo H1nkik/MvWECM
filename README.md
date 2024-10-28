@@ -43,3 +43,17 @@ We recommend you set `type = "pairs" ` on larger datasets for faster computation
 | `Reuters-18758`| 1.25 | 58            | 2      | 1 |`normalize` |
 
 Remark: If methods do not output `credal partition`, please change `if_credal_id`.
+
+## Citation
+
+If you find MvWECM useful in your research, please consider citing:
+
+### BibTeX
+```bibtex
+@misc{YourProjectName,
+  author       = {Zhou, Kuang and Zhu, Yuchen and Guo, Mei and Jiang, Ming},
+  title        = {MvWECM: Multi-View Weighted Evidential C-Means Clustering},
+  year         = {2025},
+  publisher    = {Elsevier},
+  journal      = {Pattern Recognition}
+}
