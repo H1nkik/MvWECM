@@ -19,7 +19,9 @@ R == 4.4.1
 
 **Data**
 
-INPUT: views \times n x d matrix 
+INPUT: views x n x d list
+
+Data can be found at [(Link1)]([https://github.com/ChuanbinZhang/Multi-view-datasets]), [(Link2)]((https://github.com/ZhangqiJiang07/Multi-view_Multi-class_Datasets)).
 
 ## Usage
 The platform is i7-13700 + 24G.
