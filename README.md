@@ -25,10 +25,13 @@ INPUT: views x n x d list
 Data can be found at [Link1](https://github.com/ChuanbinZhang/Multi-view-datasets), [Link2](https://github.com/ZhangqiJiang07/Multi-view_Multi-class_Datasets) and [Link3](https://gitee.com/zhangfk/multi-view-dataset).
 
 ## Usage
-The platform is i7-13700 + 24G.
+
+Just run `main.R`. (Change your path and inputting datasets)
+
+Remark: If methods do not output `credal partition`, please change `if_credal_id`.
 
 ## Parameters
-
+Our platform is i7-13700 + 24G.
 We recommend you set `type = "pairs" ` on larger datasets for faster computation.
 | datasets         | alpha     | beta    | delta |  eta  | preprocessing  | 
 | -------------- | -------- | ---------- | --------------------------- | ------| ------|
