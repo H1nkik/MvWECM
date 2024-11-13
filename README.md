@@ -56,6 +56,9 @@ If you find MvWECM useful in your research, please consider citing:
   title        = {MvWECM: Multi-View Weighted Evidential C-Means Clustering},
   author       = {Zhou, Kuang and Zhu, Yuchen and Guo, Mei and Jiang, Ming},
   journal      = {Pattern Recognition},
-  year         = {2025},
+  volume = {159},
+  pages = {111108},
+  year = {2025},
+  issn = {0031-3203},
   publisher    = {Elsevier}
 }
