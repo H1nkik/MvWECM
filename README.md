@@ -58,7 +58,7 @@ If you find MvWECM useful in your research, please consider citing:
   journal      = {Pattern Recognition},
   volume       = {159},
   pages        = {111108},
-  year         = {2025},
+  year         = {2024},
   issn         = {0031-3203},
   publisher    = {Elsevier}
 }
